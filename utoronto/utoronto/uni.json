@@ -1,0 +1,1766 @@
+[
+  {
+    "title": ["Accounting"],
+    "degree": "Bachelor of Commerce",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Actuarial Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["African Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["American Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Animal Physiology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Anthropology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Anthropology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Anthropology"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Anthropology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Anthropology"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Anthropology"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Applied Mathematics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Applied Statistics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Archaeology"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Architectural Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Art and Art History (joint program with Sheridan College)"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Art History"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Art History"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Art History and Visual Culture"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Arts Management"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Astronomical Sciences"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Astronomy"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Astronomy and Astrophysics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Astronomy and Physics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Behaviour, Genetics and Neurobiology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Biochemistry"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major - coop, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Biochemistry"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Biodiversity and Conservation Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Bioethics"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Bioinformatics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Bioinformatics and Computational Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Biological Chemistry"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Biological Chemistry"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Biological Chemistry"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Biological Physics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Biology for Health Sciences"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Biomedical Physics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Biomedical Toxicology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Biotechnology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Book and Media Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Buddhist Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Canadian Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Canadian Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Caribbean Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Cell and Molecular Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Celtic Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Chemical Engineering"],
+    "degree": "Bachelor of Applied Science",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Chemical Physics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Chemistry"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist, Major - coop, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Chemistry"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Chemistry"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Christianity and Culture"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Cinema Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["City Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor - coop, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Civil Engineering"],
+    "degree": "Bachelor of Applied Science",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Classical Civilization"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Classical Civilization"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Classics (Greek and Latin)"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Cognitive Science (Arts)"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Cognitive Science (Science)"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Commerce"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Commerce"],
+    "degree": "Bachelor of Commerce",
+    "option": "Specialist, Specialist, Specialist, Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Communication, Culture, Information, and Technology"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Comparative Physiology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Computer Engineering"],
+    "degree": "Bachelor of Applied Science",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Computer Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist, Major, Minor - coop, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Computer Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Computer Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Conservation and Biodiversity"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Contemporary Asian Studies Program (Dr. David Chu)"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Criminology"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Criminology and Socio-Legal Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Data Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Diaspora and Transnational Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Diaspora and Transnational Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Diaspora and Transnational Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Digital Enterprise Management"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Drama"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Earth and Environmental Systems"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Earth Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Earth\u00a0and\u00a0Environmental\u00a0Systems"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["East Asian Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Ecology and Evolution"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Ecology and Evolutionary Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Economics"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Economics "],
+    "degree": "Bachelor of Commerce",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Economics "],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Economics and Mathematics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Economics and Political Science"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Economics for Management Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Economics for Management Studies"],
+    "degree": "Bachelor of Business Administration",
+    "option": "Specialist - coop, Specialist, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Education"],
+    "degree": "Bachelor of Education",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Electrical Engineering"],
+    "degree": "Bachelor of Applied Science",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Employment Relations"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Engineering Science"],
+    "degree": "Bachelor of Applied Science in Engineering Science",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["English"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist - coop, Specialist, Major - coop, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["English"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["English"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Environment and Health"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Environment and Toxicology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Environmental Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Environmental Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Environmental Chemistry"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Environmental Chemistry"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Environmental Ethics"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Environmental Geography"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Environmental Geoscience"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Environmental Geosciences"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Environmental Geosciences"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Environmental Management"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Environmental Physics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Environmental Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Environmental Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major, Minor - coop, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Environmental Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Environmental Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Environmental Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Equity Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Ethics, Society and Law"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["European Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Exceptionality in Human Learning"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Finance and Economics"],
+    "degree": "Bachelor of Commerce",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Financial Economics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Financial Economics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Finnish Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Forensic Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Specialist, Specialist, Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Forest Biomaterials Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Forest Conservation (Arts)"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Forest Conservation (Arts)"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Forest Conservation (Science)"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["French"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist - coop, Specialist, Major, Minor - coop, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["French Language and French Linguistics"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["French Language and Literature"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["French Language Learning"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["French Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Fundamental Genetics and its Applications"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["General Physics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Genome Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Geographical Information Systems"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Geography"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Geography"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Geology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Geology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Geophysics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Geoscience"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["German and Ukrainian"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["German Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Global Asia Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Global Health"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Greek"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Health and Disease"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Health Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major - coop",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Health Studies"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major - coop",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Health Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Health Studies"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Health Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["History"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist - coop, Specialist, Major, Minor - coop, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["History"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["History"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["History and Philosophy of Science and Technology"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["History and Political Science"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["History of Religions"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Human Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Human Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Human Geography"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Human Geography"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Hungarian Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Immunology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Indigenous Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Industrial Engineering"],
+    "degree": "Bachelor of Applied Science",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Information"],
+    "degree": "Bachelor of Information",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Information Security"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Integrative Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["International Affairs"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["International Development Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["International Development Studies"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["International Development Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist - coop, Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["International Relations"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Islamic Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Italian"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Italian"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Jewish Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Journalism (Joint Program with Centennial College)"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Kinesiology"],
+    "degree": "Bachelor of Kinesiology",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Language Teaching and Learning: French and Italian"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Lassonde Mineral Engineering"],
+    "degree": "Bachelor of Applied Science",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Latin"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Latin American Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Linguistics"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Linguistics"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Minor, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Linguistics"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist - coop, Specialist, Major, Minor - coop, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Literary Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Literary Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Specialist, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Management"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Management"],
+    "degree": "Bachelor of Commerce",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Management"],
+    "degree": "Bachelor of Business Administration",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Management"],
+    "degree": "Bachelor of Business Administration",
+    "option": "Specialist - coop, Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Management and Accounting"],
+    "degree": "Bachelor of Business Administration",
+    "option": "Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Management and Finance"],
+    "degree": "Bachelor of Business Administration",
+    "option": "Specialist - coop, Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Management and Human Resources"],
+    "degree": "Bachelor of Business Administration",
+    "option": "Specialist - coop, Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Management and Information Technology"],
+    "degree": "Bachelor of Business Administration",
+    "option": "Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Management and International Business"],
+    "degree": "Bachelor of Business Administration",
+    "option": "Specialist - coop",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Management and Marketing"],
+    "degree": "Bachelor of Business Administration",
+    "option": "Specialist - coop, Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Materials Engineering"],
+    "degree": "Bachelor of Applied Science",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Materials Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Mathematical Applications in Economics and Finance"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Mathematical Sciences"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Mathematics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist, Major - coop, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Mathematics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Mathematics and its Applications"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Specialist, Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Mathematics and Philosophy"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Mathematics and Physics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Mechanical Engineering"],
+    "degree": "Bachelor of Applied Science",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Media, Journalism and Digital Cultures"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Mediaeval Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Medical Radiation Sciences"],
+    "degree": "Bachelor of Science in Medical Radiation Science",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Medicine"],
+    "degree": "Doctor of Medicine",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Mental Health Studies"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Molecular Biology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Molecular Biology and Biotechnology "],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Molecular Genetics and Microbiology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Music"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Music (Faculty of Music)"],
+    "degree": "Bachelor of Music",
+    "option": "Program, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Music and Culture"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Music in Performance"],
+    "degree": "Bachelor of Music in Performance",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Music with Ensemble Option"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Near and Middle Eastern Civilizations"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Near and Middle Eastern Civilizations"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Neuroscience"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Neuroscience"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["New Media Studies (Joint Program with Centennial College)"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Nursing"],
+    "degree": "Bachelor of Science in Nursing",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Nutritional Sciences"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Paleontology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Paramedicine (Joint Program with Centennial College)"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Pathobiology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Peace, Conflict and Justice"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Pharmaceutical Chemistry"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Pharmacology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Pharmacology and Biomedical Toxicology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Pharmacy"],
+    "degree": "Doctor of Pharmacy",
+    "option": "Program, Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Philosophy"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Philosophy"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Philosophy"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Philosophy and Physics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Physical and Environmental Geography"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Physical and Human Geography"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Physical and Mathematical Sciences"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Physical Sciences"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Physician Assistant"],
+    "degree": "Bachelor of Science Physician Assistant",
+    "option": "Program",
+    "campus": "STG"
+  },
+  {
+    "title": ["Physics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Physics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Physics and Astrophysics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Physiology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Planetary Science"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Political Science"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Political Science"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Political Science"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Portuguese"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Prehistoric Archaeology"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Professional Writing and Communication"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Psycholinguistics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Psycholinguistics"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist - coop",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Psychology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist, Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Psychology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Psychology"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Psychology Research"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Public Policy"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major",
+    "campus": "STG"
+  },
+  {
+    "title": ["Public Policy"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major - coop, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Religion"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Religion: Christian Origins"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Renaissance Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Sexual Diversity Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Sociology"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Sociology"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Sociology"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Spanish"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Statistical Science: Methods and Practice "],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Statistics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist - coop, Specialist, Major, Minor - coop, Major",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Statistics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Statistics and Mathematics"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Strategic Management"],
+    "degree": "Bachelor of Business Administration",
+    "option": "Specialist - coop, Specialist",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Studio"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Synthetic and Catalytic Chemistry"],
+    "degree": "Honours Bachelor of Science",
+    "option": "Specialist",
+    "campus": "STG"
+  },
+  {
+    "title": ["Theatre and Performance"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "UTSC"
+  },
+  {
+    "title": ["Theatre, Drama and Performance Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Urban Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Visual Culture and Communication"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Visual Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Women and Gender Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "UTM"
+  },
+  {
+    "title": ["Women and Gender Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Specialist, Major, Minor",
+    "campus": "STG"
+  },
+  {
+    "title": ["Women's and Gender Studies"],
+    "degree": "Honours Bachelor of Arts",
+    "option": "Major, Minor",
+    "campus": "UTSC"
+  }
+]
